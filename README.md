@@ -1,4 +1,4 @@
-# free-f-e
+# free-from-event-effect
 -Compute updated risk estimate after event-free period. <br>
 -Essential arguments include 1) RR: RR (HR) of the history of prior events and 2) rate: RR (HR) of age (per year). <br>
 -Optional arguments include 3) T: time period (years) over which risk estimates are updated, 4) latency and ref_T: time period (years) over which average HR is calibrated to a prespecifed HR (argument RR above). The parameters will be determined such that the average over inteval [latency, ref_T] is equal to a prespecifed HR (argument RR above) <br>
