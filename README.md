@@ -1,7 +1,7 @@
 # Free-from-event-effect and dynamic clinical risk estimation
 
 ## risk_update.ipynb  <br>
-Provides a code to compute updated risk estimates over an event-free period. <br>
+This notebook provides code to compute updated risk estimates over an event-free period. <br>
 ####  Essential arguments: <br>
 1) RR: Prespecified relative risk (hazard ratio or risk ratio) of the history of prior events. <br>
 2) rate: Hazard ratio or risk ratio of age per year. <br>
@@ -16,7 +16,8 @@ Parameters are determined so that the average relative risk over the interval [l
 constant = True/False: Specifies whether the constant or average model is used. This option is relevant for gamma and beta-binomial models.<br>
 
 ## risk_update.ipynb  <br>
-Provides a code to conduct simulations to explore how HR would be estimated in a real-world cohort study under a setting for a gieb set of parameters and study time preriod. <br>
+This notebook provides code to conduct simulations exploring how HR would be estimated in a real-world cohort study under a given set of parameters and study time periods. <br>
+Users can specify settings in the Parameters and Cohort Setting sections. <br>
 
 ##  Reference: <br>
 Nakamizo T and Misumi M. When Prior Events Predict Future Risk: The Freedom-from-Event Effect and Dynamic Clinical Risk Estimation with Frailty Models. (submitted)  <br>
