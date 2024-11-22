@@ -1,4 +1,4 @@
-# Free-from-event-effect and dynamic clinical risk estimation
+# Dymanic clinical risk prediction incorporating freedom-from-event effect
 
 ## risk_update.ipynb  <br>
 This notebook provides code to compute updated risk estimates over an event-free period. <br>
