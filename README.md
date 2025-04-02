@@ -19,6 +19,12 @@ constant = True/False: Specifies whether the constant or average model is used. 
 This notebook provides code to conduct simulations exploring how HR would be estimated in a real-world cohort study under a given set of parameters and study time periods. <br>
 Users can specify settings in the Parameters and Cohort Setting sections. <br>
 
+## Simulated_HR_across_various_scenarios.xlsx  <br>
+Users can compare these estimates with their real-world data and population characteristics to guide their informed assumptions about the underlying frailty distribution.<br>
+
+## Pointwise_HR.xlsx  <br>
+This excel file shows time-varying (point-wise) HR under various scenarios.<br>
+
 ##  Reference: <br>
 Nakamizo T and Misumi M. When Prior Events Predict Future Risk: The Freedom-from-Event Effect and Dynamic Clinical Risk Estimation with Frailty Models. (submitted)  <br>
 
