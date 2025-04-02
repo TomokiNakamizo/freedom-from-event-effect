@@ -20,7 +20,7 @@ This notebook provides code to conduct simulations exploring how HR would be est
 Users can specify settings in the Parameters and Cohort Setting sections. <br>
 
 ## Simulated_HR_across_various_scenarios.xlsx  <br>
-Users can compare these estimates with their real-world data and population characteristics to guide their informed assumptions about the underlying frailty distribution.<br>
+This Excel file provides estimated hazard ratios (HRs) of prior events in simulations across various scenarios. It also contains the characteristics of the simulated populations, such as the proportion of individuals with prior histories in the whole population and the proportion of events among subpopulations with or without prior history. <br>
 
 ## Pointwise_HR.xlsx  <br>
 This excel file shows time-varying (point-wise) HR under various scenarios.<br>
