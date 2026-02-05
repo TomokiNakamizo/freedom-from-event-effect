@@ -1,4 +1,4 @@
-# Dymanic clinical risk prediction incorporating freedom-from-event effect
+# Nuanced interpretaion of clinical risk prediction incorporating between-individual heterogeneity in event risk
 
 ## risk_transfer.ipynb  <br>
 This notebook provides code to map event risks predicted by risk scores derived from prevalent cohorts (observed between latency and ref_T) to event risk among the same-aged populations at the time fo diagnosi (incident cohort).
